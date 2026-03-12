@@ -27,11 +27,10 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 - 🔭 &nbsp;Currently focused on **.NET / C#** backend development
-- 🏗️ &nbsp;Building full-stack web apps with **ASP.NET MVC** and **SQL Server**
+- 🏗️ &nbsp;Building full-stack web apps with **ASP.NET** and **SQL Server**
 - 🌐 &nbsp;Frontend skills in **HTML5, CSS3, JavaScript**
 - ☁️ &nbsp;Deploying on **Microsoft Azure**
 - 🐳 &nbsp;Containerizing with **Docker**
-- 📚 &nbsp;Constantly learning and improving my craft
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
