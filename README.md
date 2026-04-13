@@ -89,22 +89,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertpolat24&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" height="200" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mertpolat24&theme=github_dark" height="180" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mertpolat24&theme=github_dark" height="180" />
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=mertpolat24&theme=rising-sun&hide_border=true&background=0d1117&stroke=21262d&ring=6C63FF&fire=06B6D4&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://streak-stats.demolab.com?user=mertpolat24&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=6C63FF&fire=06B6D4&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertpolat24&theme=github_dark" width="95%" />
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=120&section=footer" width="100%" />
