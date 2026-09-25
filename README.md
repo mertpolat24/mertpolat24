@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A0F1B,50:182848,100:0F4C81&height=250&section=header&text=Mert%20Polat&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=.NET%20Developer%20%7C%20Istanbul%2C%20Turkiye&descSize=18&descColor=d4d4ffcc&descAlignY=55&animation=fadeIn" width="100%" />
 
- <p align="center">
-  <img src="https://assets.footylogos.com/logos/trabzonspor-white-logo-footylogos.png" alt="Trabzonspor Logos" width="120" />
-</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7C7FFA&center=true&vCenter=true&width=560&lines=Backend+Developer+%40+.NET+%2F+C%23;Clean+Architecture+%26+N-Tier+Design;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
@@ -90,6 +87,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mertpolat24&theme=github_dark" height="180" />
 &nbsp;
+ <img src="https://assets.footylogos.com/logos/trabzonspor-white-logo-footylogos.png" alt="Trabzonspor Logos" width="180" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mertpolat24&theme=github_dark" height="180" />
 <br/><br/>
 
