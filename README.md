@@ -1,28 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=220&section=header&text=Mert%20Polat&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=.NET%20Developer%20%7C%20Istanbul%2C%20TR&descSize=16&descColor=ffffffaa&descAlignY=52&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=Mert%20Polat&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=.NET%20Developer%20%7C%20Istanbul%2C%20Turkiye&descSize=18&descColor=d4d4ffcc&descAlignY=55&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=.NET+%26+C%23+Developer;Full+Stack+Web+Applications;N-Tier+Architecture+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mert88f)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedmertpolat)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24mertpolat@gmail.com)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7C7FFA&center=true&vCenter=true&width=560&lines=Backend+Developer+%40+.NET+%2F+C%23;Clean+Architecture+%26+N-Tier+Design;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+</a>
 
 <br/>
 
-![Followers](https://img.shields.io/github/followers/mertpolat24?style=flat-square&color=6C63FF&labelColor=0d1117&label=Followers)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/mertpolat24?style=flat-square&color=06B6D4&labelColor=0d1117&label=Total%20Stars)
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=mertpolat24&style=flat-square&color=6C63FF&label=Profile+Views" />
+<a href="https://instagram.com/mert88f"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/muhammedmertpolat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:24mertpolat@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+<br/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
@@ -32,7 +24,6 @@
 - ☁️ &nbsp;Deploying on **Microsoft Azure**
 - 🐳 &nbsp;Containerizing with **Docker**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
@@ -87,7 +78,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
@@ -105,3 +95,5 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertpolat24&theme=github_dark" width="95%" />
 
 </div>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=212040&height=120&section=footer" width="100%" />
